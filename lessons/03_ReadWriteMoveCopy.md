@@ -179,5 +179,5 @@ This keystroke combination will kill the currently running command. We’ve only
 
 
 ## Proceed to the Next or Previous lesson
-**Next Lesson:** [04 Pipes and Filters](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/04_PipesFilters.md)  
-**Previous Lesson** [02 Navigating Directories](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/02_Navigating_Dirs.md)
+**Next Lesson:** [04 Pipes and Filters](04_PipesFilters.md)  
+**Previous Lesson** [02 Navigating Directories](02_Navigating_Dirs.md)
