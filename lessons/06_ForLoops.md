@@ -292,5 +292,5 @@ Now, who can we exectue these file?
 
 
 ## Proceed to the Previous lesson
-**Next Lesson** [07 Bash Scripts](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/07_BashScripts.md)
-**Previous Lesson** [05 grep, uniq, and history](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/05_FindingThings.md) 
+**Next Lesson** [07 Bash Scripts](07_BashScripts.md)
+**Previous Lesson** [05 grep, uniq, and history](05_FindingThings.md) 

@@ -135,5 +135,5 @@ $ wc *.fastq | sort -n | head -1
 
 
 ## Proceed to the Next and Previous lessons
-**Next Lesson:** [05 grep, uniq, and history](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/05_FindingThings.md)     
-**Previous Lesson:** [03 Read Write Move Copy](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/03_ReadWriteMoveCopy.md)
+**Next Lesson:** [05 grep, uniq, and history](05_FindingThings.md)     
+**Previous Lesson:** [03 Read Write Move Copy](03_ReadWriteMoveCopy.md)

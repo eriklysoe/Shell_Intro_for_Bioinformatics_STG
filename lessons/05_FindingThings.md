@@ -186,5 +186,5 @@ In the meantime, lets take a look at grep in more detail.
 
 
 ## Proceed to the Next or Previous lesson
-**Next Lesson:** [06 For Loops](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/06_ForLoops.md)    
-**Previous Lesson** [04 Pipes and Filters](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics/blob/master/lessons/04_PipesFilters.md)
+**Next Lesson:** [06 For Loops](06_ForLoops.md)    
+**Previous Lesson** [04 Pipes and Filters](04_PipesFilters.md)
